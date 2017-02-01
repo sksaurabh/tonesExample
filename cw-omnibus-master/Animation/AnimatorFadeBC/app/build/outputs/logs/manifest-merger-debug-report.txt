@@ -1,0 +1,53 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\AnimatorFadeBC\app\src\main\AndroidManifest.xml:1:1-30:12
+	package
+		ADDED from E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\AnimatorFadeBC\app\src\main\AndroidManifest.xml:2:2-51
+	android:versionName
+		ADDED from E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\AnimatorFadeBC\app\src\main\AndroidManifest.xml:4:2-27
+		INJECTED from E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\AnimatorFadeBC\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\AnimatorFadeBC\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\AnimatorFadeBC\app\src\main\AndroidManifest.xml:3:2-25
+		INJECTED from E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\AnimatorFadeBC\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\AnimatorFadeBC\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\AnimatorFadeBC\app\src\main\AndroidManifest.xml:1:11-69
+uses-sdk
+ADDED from E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\AnimatorFadeBC\app\src\main\AndroidManifest.xml:6:2-8:34
+	android:targetSdkVersion
+		ADDED from E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\AnimatorFadeBC\app\src\main\AndroidManifest.xml:8:3-32
+	android:minSdkVersion
+		ADDED from E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\AnimatorFadeBC\app\src\main\AndroidManifest.xml:7:3-28
+supports-screens
+ADDED from E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\AnimatorFadeBC\app\src\main\AndroidManifest.xml:10:2-14:33
+	android:largeScreens
+		ADDED from E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\AnimatorFadeBC\app\src\main\AndroidManifest.xml:11:3-30
+	android:smallScreens
+		ADDED from E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\AnimatorFadeBC\app\src\main\AndroidManifest.xml:13:3-30
+	android:normalScreens
+		ADDED from E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\AnimatorFadeBC\app\src\main\AndroidManifest.xml:12:3-31
+	android:xlargeScreens
+		ADDED from E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\AnimatorFadeBC\app\src\main\AndroidManifest.xml:14:3-31
+application
+ADDED from E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\AnimatorFadeBC\app\src\main\AndroidManifest.xml:16:2-28:16
+	android:label
+		ADDED from E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\AnimatorFadeBC\app\src\main\AndroidManifest.xml:18:3-35
+	android:icon
+		ADDED from E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\AnimatorFadeBC\app\src\main\AndroidManifest.xml:17:3-39
+activity#com.commonsware.android.animator.fadebc.MainActivity
+ADDED from E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\AnimatorFadeBC\app\src\main\AndroidManifest.xml:19:3-27:14
+	android:label
+		ADDED from E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\AnimatorFadeBC\app\src\main\AndroidManifest.xml:21:4-47
+	android:name
+		ADDED from E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\AnimatorFadeBC\app\src\main\AndroidManifest.xml:20:4-31
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\AnimatorFadeBC\app\src\main\AndroidManifest.xml:22:4-26:20
+action#android.intent.action.MAIN
+ADDED from E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\AnimatorFadeBC\app\src\main\AndroidManifest.xml:23:5-56
+	android:name
+		ADDED from E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\AnimatorFadeBC\app\src\main\AndroidManifest.xml:23:13-54
+category#android.intent.category.LAUNCHER
+ADDED from E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\AnimatorFadeBC\app\src\main\AndroidManifest.xml:25:5-64
+	android:name
+		ADDED from E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\AnimatorFadeBC\app\src\main\AndroidManifest.xml:25:15-62

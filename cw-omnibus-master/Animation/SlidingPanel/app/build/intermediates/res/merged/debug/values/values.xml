@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SlidingPanel"><attr format="integer" name="speed"/><attr format="dimension" name="targetHeight"/></declare-styleable>
+    <string name="app_name">Sliding Panel Demo</string>
+</resources>

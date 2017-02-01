@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="19"
+    density="xhdpi"
+    format="7"
+    timestamp="8208039598050"
+    token="5237564679146202515" >
+
+    <task
+        name="javac"
+        duration="99" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="48" />
+    <task
+        name="verifier"
+        duration="15" />
+
+    <artifact
+        location="E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\ObjectAnimator\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="8208039598050" >
+        <artifact
+            location="E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\ObjectAnimator\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

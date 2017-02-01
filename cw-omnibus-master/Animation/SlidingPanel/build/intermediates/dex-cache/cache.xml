@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\SlidingPanel\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="dc94428e81765b0ffac9dd85d063f0a48635f5c6">
+        <dex dex="E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\SlidingPanel\app\build\intermediates\pre-dexed\debug\instant-run_52ae7861c05ac90f99ba06a2ca32b02dfceaad3a.jar" />
+    </item>
+    <item
+        jar="E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\SlidingPanel\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="778dc0438dfa89ef74d24616bd5c56c9188cc6c5">
+        <dex dex="E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\SlidingPanel\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_39054adce5bfcf953d1d08a6619af28d674b1070.jar" />
+    </item>
+
+</items>

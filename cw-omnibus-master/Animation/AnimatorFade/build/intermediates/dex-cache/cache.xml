@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\AnimatorFade\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="b2144b6b656dfd20eaeac89a0dc6bc1269d12817">
+        <dex dex="E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\AnimatorFade\app\build\intermediates\pre-dexed\debug\instant-run_cab7166a379b75d3cc08914205ab73ddcc1f5691.jar" />
+    </item>
+    <item
+        jar="E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\AnimatorFade\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="bd3bd3ebb7c68499c674cef7df942b0c1a996d6b">
+        <dex dex="E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\AnimatorFade\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_6a41c8fa8cc19b7b516ae86698013388887ef283.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\AnimatorFadeBC\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="6abe5ef52651bf6f7efbb731318236b97581ffad">
+        <dex dex="E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\AnimatorFadeBC\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_9f2676f9ab6ee5ecbd3c94b0cf7daf30eece118a.jar" />
+    </item>
+    <item
+        jar="E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\AnimatorFadeBC\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="068406f7b5a9bf0223fb7d94b9feea4dd46cc243">
+        <dex dex="E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\AnimatorFadeBC\app\build\intermediates\pre-dexed\debug\instant-run_40762989af79ce4d2922bba65c5dbc237a0282a0.jar" />
+    </item>
+    <item
+        jar="C:\Users\saurabh.kumar\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\AnimatorFadeBC\app\build\intermediates\pre-dexed\debug\library-2.4.0_50fd34c9f291cf61c2452ee78f0f1ba469188a9e.jar" />
+    </item>
+
+</items>

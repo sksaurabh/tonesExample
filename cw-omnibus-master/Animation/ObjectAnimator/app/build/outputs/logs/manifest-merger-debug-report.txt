@@ -1,0 +1,43 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\ObjectAnimator\app\src\main\AndroidManifest.xml:1:1-24:12
+	package
+		ADDED from E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\ObjectAnimator\app\src\main\AndroidManifest.xml:2:2-48
+	android:versionName
+		ADDED from E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\ObjectAnimator\app\src\main\AndroidManifest.xml:4:2-27
+		INJECTED from E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\ObjectAnimator\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\ObjectAnimator\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\ObjectAnimator\app\src\main\AndroidManifest.xml:3:2-25
+		INJECTED from E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\ObjectAnimator\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\ObjectAnimator\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\ObjectAnimator\app\src\main\AndroidManifest.xml:1:11-69
+uses-sdk
+ADDED from E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\ObjectAnimator\app\src\main\AndroidManifest.xml:6:2-8:34
+	android:targetSdkVersion
+		ADDED from E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\ObjectAnimator\app\src\main\AndroidManifest.xml:8:3-32
+	android:minSdkVersion
+		ADDED from E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\ObjectAnimator\app\src\main\AndroidManifest.xml:7:3-28
+application
+ADDED from E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\ObjectAnimator\app\src\main\AndroidManifest.xml:10:2-22:16
+	android:label
+		ADDED from E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\ObjectAnimator\app\src\main\AndroidManifest.xml:12:3-35
+	android:icon
+		ADDED from E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\ObjectAnimator\app\src\main\AndroidManifest.xml:11:3-39
+activity#com.commonsware.android.animator.obj.MainActivity
+ADDED from E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\ObjectAnimator\app\src\main\AndroidManifest.xml:13:3-21:14
+	android:label
+		ADDED from E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\ObjectAnimator\app\src\main\AndroidManifest.xml:15:4-47
+	android:name
+		ADDED from E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\ObjectAnimator\app\src\main\AndroidManifest.xml:14:4-32
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\ObjectAnimator\app\src\main\AndroidManifest.xml:16:4-20:20
+action#android.intent.action.MAIN
+ADDED from E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\ObjectAnimator\app\src\main\AndroidManifest.xml:17:5-56
+	android:name
+		ADDED from E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\ObjectAnimator\app\src\main\AndroidManifest.xml:17:13-54
+category#android.intent.category.LAUNCHER
+ADDED from E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\ObjectAnimator\app\src\main\AndroidManifest.xml:19:5-64
+	android:name
+		ADDED from E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\ObjectAnimator\app\src\main\AndroidManifest.xml:19:15-62

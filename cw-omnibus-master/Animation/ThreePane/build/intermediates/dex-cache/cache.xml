@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\ThreePane\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="c46ef142c9df2fcac2e7a1caa7c93d5daf8530b4">
+        <dex dex="E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\ThreePane\app\build\intermediates\pre-dexed\debug\instant-run_c68b5da39c352230e0bbc65111d4e809fc8a57f1.jar" />
+    </item>
+    <item
+        jar="E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\ThreePane\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="3271c506c557a59914ddb4550bcd23c59f86f11d">
+        <dex dex="E:\AAAAAAAAAAAAAAAAAAAAAAAAAAA\tonesExample\cw-omnibus-master\Animation\ThreePane\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_679321a2b8cf19f925ed95e6c87f1afab1a60516.jar" />
+    </item>
+
+</items>
